@@ -1,0 +1,8 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "repository": "https://github.com/simonweei/agent-skills",
+  "client": "Codex",
+  "verifiedOn": "2026-10-23",
+  "installPaths": ["AGENTS.md", ".agents/skills", ".codex/config.toml", ".codex/agents", "rules", "docs/ai"]
+}

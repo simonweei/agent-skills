@@ -1,0 +1,6 @@
+# 项目配置仅在受信任的项目中加载；不覆盖用户模型、权限和审批设置。
+# 子 Agent 的可用性取决于客户端版本；角色定义不代表自动启动。
+
+[mcp_servers.openaiDeveloperDocs]
+url = "https://developers.openai.com/mcp"
+enabled = false
